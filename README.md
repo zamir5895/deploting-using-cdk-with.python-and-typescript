@@ -1,1 +1,1 @@
-# deploting-using-cdk-with.python-and-typescript
+# deploying-using-cdk-with-python-and-typescript
